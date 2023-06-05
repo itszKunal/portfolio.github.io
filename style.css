@@ -1,0 +1,52 @@
+.myrows{
+    border: 3px solid green;
+}
+.mycols{
+    border: 3px solid red;
+}
+.mycontainer{
+    border: 4px dashed white;
+    background-color: blueviolet;
+}
+.topheader{
+    background-color: aliceblue;
+    border-bottom: 2px solid silver;
+}
+.topheader a{
+    color: brown;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.full-footer{
+    background-color: #004d80;
+    /* position: absolute;
+    bottom: 0; */
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.bottom-footer{
+    background-color: #052f4b;
+    color: white;
+}
+.top-hero-section{
+    background-color: #2e9feb;
+    color: white;
+}
+.top-hero-section a{
+    /* background-color: #3498db; */
+    color: white;
+}
+.top-hero-section button{
+    /* background-color: #3498db; */
+    background-color: #004d80;
+}
+.Quality-img{
+    width: 200px;
+}
